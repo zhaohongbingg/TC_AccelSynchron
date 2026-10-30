@@ -1,0 +1,15 @@
+{
+  "itemGroup.tc_accelsynchron": "TC_AccelSynchron",
+  "block.tc_accelsynchron.overclock_heater": "Overclock Heater",
+  "block.tc_accelsynchron.overclock_heater.tooltip": "Smeltery accelerator: melting speed x the block's tuned multiplier.",
+  "block.tc_accelsynchron.overclock_heater.place": "Place directly on top of the smeltery / foundry controller",
+  "block.tc_accelsynchron.overclock_heater.usage": "Right-click to tune (1x/2x/4x/8x/16x), sneak+right-click to go back",
+  "block.tc_accelsynchron.scorched_overclock_heater": "Scorched Overclock Heater",
+  "block.tc_accelsynchron.scorched_overclock_heater.tooltip": "Foundry accelerator: melting speed x the block's tuned multiplier.",
+  "message.tc_accelsynchron.overclock_heater.set": "Overclock: %s",
+  "frequency.tc_accelsynchron.off": "Off (1x)",
+  "frequency.tc_accelsynchron.x2": "2x",
+  "frequency.tc_accelsynchron.x4": "4x",
+  "frequency.tc_accelsynchron.x8": "8x",
+  "frequency.tc_accelsynchron.x16": "16x"
+}

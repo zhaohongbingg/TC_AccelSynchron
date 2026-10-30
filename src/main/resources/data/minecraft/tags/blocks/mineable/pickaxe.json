@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "tc_accelsynchron:overclock_heater",
+    "tc_accelsynchron:scorched_overclock_heater"
+  ]
+}

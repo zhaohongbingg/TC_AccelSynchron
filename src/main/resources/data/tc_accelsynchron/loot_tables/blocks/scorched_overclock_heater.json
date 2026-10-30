@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "tc_accelsynchron:scorched_overclock_heater"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "tc_accelsynchron:blocks/scorched_overclock_heater"
+}

@@ -1,0 +1,25 @@
+{
+  "variants": {
+    "connected=false,frequency=off,in_structure=false": { "model": "tc_accelsynchron:block/scorched_overclock_heater" },
+    "connected=false,frequency=off,in_structure=true": { "model": "tc_accelsynchron:block/scorched_overclock_heater" },
+    "connected=false,frequency=x2,in_structure=false": { "model": "tc_accelsynchron:block/scorched_overclock_heater_active" },
+    "connected=false,frequency=x2,in_structure=true": { "model": "tc_accelsynchron:block/scorched_overclock_heater_active" },
+    "connected=false,frequency=x4,in_structure=false": { "model": "tc_accelsynchron:block/scorched_overclock_heater_active" },
+    "connected=false,frequency=x4,in_structure=true": { "model": "tc_accelsynchron:block/scorched_overclock_heater_active" },
+    "connected=false,frequency=x8,in_structure=false": { "model": "tc_accelsynchron:block/scorched_overclock_heater_active" },
+    "connected=false,frequency=x8,in_structure=true": { "model": "tc_accelsynchron:block/scorched_overclock_heater_active" },
+    "connected=false,frequency=x16,in_structure=false": { "model": "tc_accelsynchron:block/scorched_overclock_heater_active" },
+    "connected=false,frequency=x16,in_structure=true": { "model": "tc_accelsynchron:block/scorched_overclock_heater_active" },
+    "connected=true,frequency=off,in_structure=false": { "model": "tc_accelsynchron:block/scorched_overclock_heater" },
+    "connected=true,frequency=off,in_structure=true": { "model": "tc_accelsynchron:block/scorched_overclock_heater" },
+    "connected=true,frequency=x2,in_structure=false": { "model": "tc_accelsynchron:block/scorched_overclock_heater_active" },
+    "connected=true,frequency=x2,in_structure=true": { "model": "tc_accelsynchron:block/scorched_overclock_heater_active" },
+    "connected=true,frequency=x4,in_structure=false": { "model": "tc_accelsynchron:block/scorched_overclock_heater_active" },
+    "connected=true,frequency=x4,in_structure=true": { "model": "tc_accelsynchron:block/scorched_overclock_heater_active" },
+    "connected=true,frequency=x8,in_structure=false": { "model": "tc_accelsynchron:block/scorched_overclock_heater_active" },
+    "connected=true,frequency=x8,in_structure=true": { "model": "tc_accelsynchron:block/scorched_overclock_heater_active" },
+    "connected=true,frequency=x16,in_structure=false": { "model": "tc_accelsynchron:block/scorched_overclock_heater_active" },
+    "connected=true,frequency=x16,in_structure=true": { "model": "tc_accelsynchron:block/scorched_overclock_heater_active" }
+  }
+}
+

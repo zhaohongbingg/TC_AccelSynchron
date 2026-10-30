@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "tc_accelsynchron:block/overclock_heater_side_active",
+    "bottom": "tc_accelsynchron:block/overclock_heater_end",
+    "side": "tc_accelsynchron:block/overclock_heater_side_active"
+  }
+}
+

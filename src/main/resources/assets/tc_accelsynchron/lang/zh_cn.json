@@ -1,0 +1,15 @@
+{
+  "itemGroup.tc_accelsynchron": "TC_AccelSynchron",
+  "block.tc_accelsynchron.overclock_heater": "超频加热砖",
+  "block.tc_accelsynchron.overclock_heater.tooltip": "冶炼炉加速件：熔炼速度 ×方块倍率",
+  "block.tc_accelsynchron.overclock_heater.place": "放在冶炼炉 / 熔铸炉控制器正上方（贴着放）",
+  "block.tc_accelsynchron.overclock_heater.usage": "右击调频（1×/2×/4×/8×/16×），潜行右击反向",
+  "block.tc_accelsynchron.scorched_overclock_heater": "焦褐超频加热砖",
+  "block.tc_accelsynchron.scorched_overclock_heater.tooltip": "熔铸炉加速件：熔炼速度 ×方块倍率",
+  "message.tc_accelsynchron.overclock_heater.set": "超频频率：%s",
+  "frequency.tc_accelsynchron.off": "关闭（1×）",
+  "frequency.tc_accelsynchron.x2": "2×",
+  "frequency.tc_accelsynchron.x4": "4×",
+  "frequency.tc_accelsynchron.x8": "8×",
+  "frequency.tc_accelsynchron.x16": "16×"
+}
