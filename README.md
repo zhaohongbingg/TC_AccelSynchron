@@ -1,5 +1,7 @@
 # TC_AccelSynchron
 
+English | [简体中文](README_zh.md)
+
 **Overclock Heater blocks for Tinkers' Construct smelteries and foundries.**
 
 TC_AccelSynchron is a small, standalone addon for Minecraft 1.20.1 (Forge) that adds tuneable accelerator blocks for Tinkers' Construct. Bolt one onto a Smeltery or Foundry controller and the whole structure melts faster — without replacing the controller, editing recipes, or touching the multiblock walls.
